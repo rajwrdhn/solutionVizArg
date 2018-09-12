@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/add.png</file>
+        <file>images/af.png</file>
+        <file>images/colorize.png</file>
+        <file>images/exit.png</file>
+        <file>images/find.png</file>
+        <file>images/new.png</file>
+        <file>images/open.png</file>
+        <file>images/print.png</file>
+        <file>images/remove.png</file>
+        <file>images/save.png</file>
+        <file>images/saveas.png</file>
+        <file>images/saved.png</file>
+        <file>images/texteditor.png</file>
+    </qresource>
+</RCC>
